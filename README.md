@@ -19,3 +19,4 @@ Link to the original 'pandas' repository [here](https://github.com/swilsonmfc/pa
 | Week_2      | Series, DataFrames, loc & iloc            |
 | Week_3      | Indexes, Joins, Merges & Concatenations   |
 | Week_4      | Aggregations, Split-Apply-Combine, Pivots |
+| Week_5      | Exploring Data Analytics                  |
