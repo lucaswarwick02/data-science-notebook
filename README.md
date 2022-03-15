@@ -13,9 +13,9 @@ Then to get out of the virtual environment you can run `deactivate`
 
 ## Pandas
 Link to the original 'pandas' repository [here](https://github.com/swilsonmfc/pandas)
-| Week   | Topics                                    |
-|--------|-------------------------------------------|
-| Week 1 | Introduction                              |
-| Week 2 | Series, DataFrames, loc & iloc            |
-| Week 3 | Indexes, Joins, Merges & Concatenations   |
-| Week 4 | Aggregations, Split-Apply-Combine, Pivots |
+| File Name   | Topics                                    |
+|-------------|-------------------------------------------|
+| Week_1      | Introduction                              |
+| Week_2      | Series, DataFrames, loc & iloc            |
+| Week_3      | Indexes, Joins, Merges & Concatenations   |
+| Week_4      | Aggregations, Split-Apply-Combine, Pivots |
