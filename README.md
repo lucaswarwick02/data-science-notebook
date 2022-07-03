@@ -3,13 +3,9 @@
 This repository is a combination of all of the notebooks produced by [swilsonmfc](https://github.com/swilsonmfc). 
 
 ## Adding packages
-You can access the virtual environment by running `.\venv\Scripts\activate` in your terminal.
-
-From there you can run any `pip install <package>`, and then `pip freeze > requirements.txt` to output these to a requirements file
-
-In order to load the requirements into your virtual environment, you can run the following command: `pip install -r requirements.txt`
-
-Then to get out of the virtual environment you can run `deactivate`
+In order to run the notebooks, you will need to activate the virtual environment. To do this, you can run the following commands:
+```conda env create -f environment.yml```
+```conda activate data-science-notebooks```
 
 ## Pandas
 Link to the original 'pandas' repository [here](https://github.com/swilsonmfc/pandas)
@@ -20,3 +16,9 @@ Link to the original 'pandas' repository [here](https://github.com/swilsonmfc/pa
 | Week_3      | Indexes, Joins, Merges & Concatenations   |
 | Week_4      | Aggregations, Split-Apply-Combine, Pivots |
 | Week_5      | Exploring Data Analytics                  |
+
+## Timeseries
+Link to the original 'timeseries' repository [here](https://github.com/swilsonmfc/timeseries)
+| File Name   | Topics                                    |
+|-------------|-------------------------------------------|
+| Introduction| N/A                                       |
